@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"target": "es2016",
+		"jsx": "react-jsx",
+		"module": "CommonJS",
+		"strict": true
+	}
+}
